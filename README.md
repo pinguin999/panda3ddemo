@@ -13,3 +13,4 @@ How to create a box with texture in Blender.
 11. In Mapping change Generated to UV and select Map UVMap
 12. Save Blender File
 13. Export with
+12345
